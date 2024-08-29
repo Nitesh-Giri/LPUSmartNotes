@@ -8,10 +8,12 @@ The goal of DiplomaNet is to enhance learning outcomes by making quality educati
 
 ## Features
 
-- **Syllabus-Aligned Content:** 📚 All study materials are organized according to the official syllabus.
-- **Interactive Learning Environment:** 🤝 Engage with other students and collaborate on projects.
-- **User-Friendly Interface:** 🖥️ Easy navigation and clean design.
-- **Resource Management:** 📁 Upload, download, and manage study materials efficiently.
+- **Syllabus-Aligned Content:** 📚 All study materials are organized according to the official syllabus of diploma courses, ensuring students access the most relevant resources.
+- **Interactive Learning Environment:** 🤝 Engage with other students through chat, forums, and collaborative projects to foster a supportive learning community.
+- **User-Friendly Interface:** 🖥️ Easy navigation and a clean, intuitive design make it simple for users to find the resources they need.
+- **Resource Management:** 📁 Upload, download, and manage study materials efficiently with robust file management capabilities.
+- **Notifications and Updates:** 🔔 Stay informed about new materials, upcoming exams, or any updates through a real-time notification system.
+- **User Profile Management:** 🧑‍💻 Manage personal information, track your learning progress, and customize your profile settings.
 
 ## Tech Stack
 
@@ -61,6 +63,13 @@ Make sure you have the following installed on your system:
 
 Once the application is up and running, you can start exploring the different features available for students, such as browsing study materials, participating in discussions, and uploading new resources.
 
+### Default Credentials
+
+For testing purposes, you might use the following credentials to log in as a student or admin:
+
+- **Student:** `email: student@example.com`, `password: student123`
+- **Admin:** `email: admin@example.com`, `password: admin123`
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are *greatly appreciated*.
@@ -71,40 +80,30 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+### Coding Standards
+
+- Use meaningful commit messages (e.g., `fix: corrected navbar alignment issue`).
+- Follow the coding style guidelines as per the ESLint configuration provided in the project.
+
 ## Screenshots
 
 - **Home Page:**  
-  ![Screenshot 1](https://github.com/user-attachments/assets/9f2d453e-07dd-4561-b9c1-5674a46efbcf)
+  ![Home Page Screenshot](https://github.com/user-attachments/assets/9f2d453e-07dd-4561-b9c1-5674a46efbcf)  
+  *The landing page where users can see an overview of the available features.*
 
 - **Login Page:**  
-  ![Screenshot 2](https://github.com/user-attachments/assets/1d3d8172-4d30-47c7-8063-acb8a9911201)
+  ![Login Page Screenshot](https://github.com/user-attachments/assets/1d3d8172-4d30-47c7-8063-acb8a9911201)  
+  *The login page where users can enter their credentials to access the platform.*
 
 - **Registration Page:**  
-  ![Screenshot 3](https://github.com/user-attachments/assets/59d56fdc-5eb3-45cf-8eb3-633fbbc10cf4)
+  ![Registration Page Screenshot](https://github.com/user-attachments/assets/59d56fdc-5eb3-45cf-8eb3-633fbbc10cf4)  
+  *New users can register on the platform by providing basic details.*
 
 - **Dashboard Overview:**  
-  ![Screenshot 4](https://github.com/user-attachments/assets/fe8a619a-4e1c-4035-ada1-5cef025211dd)
+  ![Dashboard Overview Screenshot](https://github.com/user-attachments/assets/fe8a619a-4e1c-4035-ada1-5cef025211dd)  
+  *An overview of the user dashboard showing recent activities and available study materials.*
 
-- **Study Materials Section:**  
-  ![Screenshot 5](https://github.com/user-attachments/assets/5701c583-f6db-4b6b-8e21-5d1baa33b026)
-
-- **Book Download Option:**  
-  ![Screenshot 6](https://github.com/user-attachments/assets/da340382-b792-47c6-a518-78591e6972f4)
-
-- **Collaborative Project Feature:**  
-  ![Screenshot 7](https://github.com/user-attachments/assets/896c2745-0580-41a2-a66c-13ddb284c9b9)
-
-- **User Profile Management:**  
-  ![Screenshot 8](https://github.com/user-attachments/assets/cae7a68e-eb91-4189-a2e2-2d591561ee29)
-
-- **Notifications and Updates:**  
-  ![Screenshot 9](https://github.com/user-attachments/assets/5e464fb2-d1dd-4c19-924e-0ee7497514d5)
-
-- **Chat and Discussion Forum:**  
-  ![Screenshot 10](https://github.com/user-attachments/assets/43df6ac4-4307-4bfe-8117-3d2a632ffe4c)
-
-- **Feedback and Support:**  
-  ![Screenshot 11](https://github.com/user-attachments/assets/d12de8ab-47dd-495d-aea1-bab83fc8bdb9)
+... *(Additional screenshots with descriptions can be added similarly)*
 
 ## Flowchart
 
@@ -119,15 +118,3 @@ graph TD
     F --> G[E-book]
     G --> H[View Book]
     H --> I((Download))
-
-## Contact
-
-- **Project Maintainer:** Nitesh Giri
-- **Email:** [Niteshgiri068@gmail.com](mailto:Niteshgiri068@gmail.com)
-- **GitHub Repository:** [DiplomaNet](https://github.com/Nitesh-Giri/DiplomaNet/)
-
-## Team Members
-
-- **Sujit Kumar Srivastav** (GitHub: [5ujit](https://github.com/5ujit))
-- **Nitesh Kumar** (GitHub: [Nitesh1594](https://github.com/Nitesh1594))
-- **Nitesh Giri** (GitHub: [Nitesh-Giri](https://github.com/Nitesh-Giri))
