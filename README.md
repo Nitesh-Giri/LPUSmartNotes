@@ -99,7 +99,7 @@ Contributions are what make the open-source community such an amazing place to l
   ![Registration Page Screenshot](https://github.com/user-attachments/assets/59d56fdc-5eb3-45cf-8eb3-633fbbc10cf4)  
   *New users can register on the platform by providing basic details.*
 
-- **Dashboard Overview:**  
+- **Footer page:**  
   ![Dashboard Overview Screenshot](https://github.com/user-attachments/assets/fe8a619a-4e1c-4035-ada1-5cef025211dd)
 
   ## Contact
