@@ -102,7 +102,7 @@ Contributions are what make the open-source community such an amazing place to l
 - **Footer page:**  
   ![Dashboard Overview Screenshot](https://github.com/user-attachments/assets/fe8a619a-4e1c-4035-ada1-5cef025211dd)
 
-- **Footer page:**
+- **Course :**
 <img width="1440" alt="Screenshot 2024-08-29 at 2 38 55 PM" src="https://github.com/user-attachments/assets/3a210acc-2b6a-441a-8b17-4f1fd735e3c8">
 <img width="1440" alt="Screenshot 2024-08-29 at 2 39 07 PM" src="https://github.com/user-attachments/assets/e220b4ce-1268-42d6-a4a4-cccf84bd16df">
 <img width="1440" alt="Screenshot 2024-08-29 at 2 39 17 PM" src="https://github.com/user-attachments/assets/ffaa4331-042d-45e6-9846-74208b2ea6b6">
