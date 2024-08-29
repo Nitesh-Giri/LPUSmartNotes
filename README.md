@@ -89,18 +89,25 @@ Contributions are what make the open-source community such an amazing place to l
 
 - **Home Page:**  
   ![Home Page Screenshot](https://github.com/user-attachments/assets/9f2d453e-07dd-4561-b9c1-5674a46efbcf)  
-  *The landing page where users can see an overview of the available features.*
+
 
 - **Self Help Book:**  
   ![Login Page Screenshot](https://github.com/user-attachments/assets/1d3d8172-4d30-47c7-8063-acb8a9911201)  
-  *The login page where users can enter their credentials to access the platform.*
+
 
 - **About us & Contact Us:**  
   ![Registration Page Screenshot](https://github.com/user-attachments/assets/59d56fdc-5eb3-45cf-8eb3-633fbbc10cf4)  
-  *New users can register on the platform by providing basic details.*
+
 
 - **Footer page:**  
   ![Dashboard Overview Screenshot](https://github.com/user-attachments/assets/fe8a619a-4e1c-4035-ada1-5cef025211dd)
+
+- **Footer page:**
+<img width="1440" alt="Screenshot 2024-08-29 at 2 38 55 PM" src="https://github.com/user-attachments/assets/3a210acc-2b6a-441a-8b17-4f1fd735e3c8">
+<img width="1440" alt="Screenshot 2024-08-29 at 2 39 07 PM" src="https://github.com/user-attachments/assets/e220b4ce-1268-42d6-a4a4-cccf84bd16df">
+<img width="1440" alt="Screenshot 2024-08-29 at 2 39 17 PM" src="https://github.com/user-attachments/assets/ffaa4331-042d-45e6-9846-74208b2ea6b6">
+<img width="1440" alt="Screenshot 2024-08-29 at 2 39 44 PM" src="https://github.com/user-attachments/assets/2a80fd1c-c0bf-45a3-a1c1-3ff1d227caf9">
+
 
   ## Contact
 
