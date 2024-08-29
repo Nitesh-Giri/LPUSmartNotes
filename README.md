@@ -107,6 +107,5 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## My team Members
 
-Team Members: [Nitesh1594](https://github.com/Nitesh1594),
- [5ujit](https://github.com/5ujit)
+Team Members: Sujit Kumar Srivastva, Nitesh Kumar
 
