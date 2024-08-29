@@ -66,13 +66,9 @@ function Course() {
             <span className="text-pink-500"> Here! :)</span>
           </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
-            assumenda? Repellendus, iste corrupti? Tempore laudantium
-            repellendus accusamus accusantium sed architecto odio, nisi expedita
-            quas quidem nesciunt debitis dolore non aspernatur praesentium
-            assumenda sint quibusdam, perspiciatis, explicabo sequi fugiat amet
-            animi eos aut. Nobis quisquam reiciendis sunt quis sed magnam
-            consequatur!
+          DiplomaNet is a Digital E-Library tailored specifically for diploma students in India. This project aims to provide easy access to well-organized, syllabus-aligned study materials and foster a collaborative online environment for students.
+
+
           </p><br></br>
 
           <div> 
@@ -91,14 +87,16 @@ function Course() {
 >
   <figure>
     <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
+      src="https://m.media-amazon.com/images/I/71uN0nVAkvL._AC_UF1000,1000_QL80_.jpg"
+      alt="books" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfdg</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">C++ Programming</h2>
+    <div className="card-actions justify-center">
+      <a href="https://notalentgeek.github.io/note/note/project/project-independent/pi-brp-beginning-c-programming/document/20170807-1504-cet-1-book-and-source-1.pdf">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      </a>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -114,14 +112,15 @@ function Course() {
 >
   <figure>
     <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
+      src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4302-0032-1"
+      alt="books" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfbdfn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Java Programming</h2>
+  
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -137,14 +136,15 @@ function Course() {
 >
   <figure>
     <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
+      src="https://qph.cf2.quoracdn.net/main-qimg-84610dbf5532f036eaeebf8c64ba7d69-lq"
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>fdgn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Data Structure & Algorithms</h2>
+  
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -160,14 +160,17 @@ function Course() {
 >
   <figure>
     <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
+      src="https://m.media-amazon.com/images/I/81P9wo4zRqL._AC_UF1000,1000_QL80_.jpg"
+      alt="books" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>fgn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Introduction to DBMS</h2>
+    
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <a href="https://www.rjsfgc.edu.in/pdf/even-sem-qp/bca/II-SEMESTER/Database-Management-System.pdf">
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
+      </a>
     </div>
   </div>
 </div>
@@ -187,10 +190,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>vfbg</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+    
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -210,10 +214,10 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>xvxfbc</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -233,10 +237,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>cvnb</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+ 
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -256,10 +261,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>dffdb</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+   
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -288,14 +294,15 @@ function Course() {
 >
   <figure>
     <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX9hxLNvZxIP911A0FVpjpkMkgOekmVmRD0Q&s"
+      alt="books" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfdg</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Concept Booster for CE</h2>
+   
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -311,14 +318,15 @@ function Course() {
 >
   <figure>
     <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
+      src="https://m.media-amazon.com/images/I/81S23t46BlL._AC_UF1000,1000_QL80_.jpg"
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfbdfn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Theory of Structure</h2>
+  
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -334,14 +342,15 @@ function Course() {
 >
   <figure>
     <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
+      src="https://m.media-amazon.com/images/I/91VXcW8kLRL._AC_UF1000,1000_QL80_.jpg"
+      alt="books" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>fdgn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Concrete Technology</h2>
+ 
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -361,10 +370,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>fgn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+  
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -384,10 +394,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>vfbg</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+ 
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -407,10 +418,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>xvxfbc</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+ 
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -430,10 +442,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>cvnb</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+   
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -453,10 +466,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>dffdb</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+   
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -481,14 +495,15 @@ function Course() {
 >
   <figure>
     <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
+      src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-78995-4"
+      alt="books" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfdg</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Electronics Engineering</h2>
+  
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -504,14 +519,14 @@ function Course() {
 >
   <figure>
     <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFSufsBgZnH1mzjx9jQJ9PhaeTm3qoLuoMw&s"
+      alt="books" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfbdfn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Electronics & Communication</h2>
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -527,14 +542,15 @@ function Course() {
 >
   <figure>
     <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
+      src="https://m.media-amazon.com/images/I/51XDMQIQ53L._SL500_.jpg"
+      alt="books" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>fdgn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Electronics Manufacturing</h2>
+  
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -554,10 +570,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>fgn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -577,10 +594,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>vfbg</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+   
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -600,10 +618,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>xvxfbc</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+    
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -623,10 +642,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>cvnb</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+   
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -646,10 +666,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>dffdb</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+  
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -678,10 +699,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfdg</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Books!</h2>
+    
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -701,10 +723,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfbdfn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Books!</h2>
+   
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -724,10 +747,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>fdgn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Books!</h2>
+    
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -747,10 +771,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>fgn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+  
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -770,10 +795,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>vfbg</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+   
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -793,10 +819,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>xvxfbc</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+    
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -816,10 +843,10 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>cvnb</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -839,10 +866,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>dffdb</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+    
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -871,10 +899,10 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfdg</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Books!</h2>
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -894,10 +922,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfbdfn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Books!</h2>
+  
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -917,10 +946,10 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>fdgn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Books!</h2>
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -940,10 +969,10 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>fgn</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -963,10 +992,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>vfbg</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -986,10 +1016,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>xvxfbc</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+    
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -1009,10 +1040,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>cvnb</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+    
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
@@ -1032,10 +1064,11 @@ function Course() {
       alt="Shoes" />
   </figure>
   <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>dffdb</p>
-    <div className="card-actions justify-end">
+    <h2 className="card-title justify-center">Book!</h2>
+ 
+    <div className="card-actions justify-center">
       <button className="btn btn-primary text-pink-500">Read Now</button>
+      <button className="btn btn-primary text-pink-500">PY-QP</button>
     </div>
   </div>
 </div>
