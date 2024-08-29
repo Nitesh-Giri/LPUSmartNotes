@@ -98,7 +98,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>dfdg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -121,7 +121,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>dfbdfn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -144,7 +144,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>fdgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -167,7 +167,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>fgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -190,7 +190,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>vfbg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -213,7 +213,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>xvxfbc</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -236,7 +236,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>cvnb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -259,7 +259,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>dffdb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -269,11 +269,11 @@ function Course() {
 
 
 
-      </Slider>
+      </Slider><br></br>
 
           </div><br></br>
           <div> 
-            <p className="text-pink-500">Computer Science & Engineering</p><br></br>
+            <p className="text-pink-500">Civil Engineering</p><br></br>
           </div>
 
           <div>
@@ -295,7 +295,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>dfdg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -318,7 +318,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>dfbdfn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -341,7 +341,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>fdgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -364,7 +364,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>fgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -387,7 +387,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>vfbg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -410,7 +410,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>xvxfbc</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -433,7 +433,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>cvnb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -456,18 +456,18 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>dffdb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
           
         </div>
-      </Slider>
+      </Slider><br></br>
 
           </div>
           <br></br>
           <div> 
-            <p className="text-pink-500">Computer Science & Engineering</p><br></br>
+            <p className="text-pink-500">Electronic engineering</p><br></br>
           </div>
           <div>
             <Slider {...settings}>
@@ -488,7 +488,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>dfdg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -511,7 +511,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>dfbdfn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -534,7 +534,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>fdgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -557,7 +557,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>fgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -580,7 +580,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>vfbg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -603,7 +603,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>xvxfbc</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -626,7 +626,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>cvnb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -649,18 +649,18 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>dffdb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
           
         </div>
-      </Slider>
+      </Slider><br></br>
 
           </div>
           <br></br>
           <div> 
-            <p className="text-pink-500">Computer Science & Engineering</p><br></br>
+            <p className="text-pink-500">Chemical Engineering</p><br></br>
           </div>
           <div>
             <Slider {...settings}>
@@ -681,7 +681,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>dfdg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -704,7 +704,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>dfbdfn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -727,7 +727,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>fdgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -750,7 +750,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>fgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -773,7 +773,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>vfbg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -796,7 +796,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>xvxfbc</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -819,7 +819,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>cvnb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -842,18 +842,18 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>dffdb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
           
         </div>
-      </Slider>
+      </Slider><br></br>
 
           </div>
           <br></br>
           <div> 
-            <p className="text-pink-500">Computer Science & Engineering</p><br></br>
+            <p className="text-pink-500">Electrical engineering</p><br></br>
           </div>
           <div>
             <Slider {...settings}>
@@ -874,7 +874,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>dfdg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -897,7 +897,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>dfbdfn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -920,7 +920,7 @@ function Course() {
     <h2 className="card-title">Books!</h2>
     <p>fdgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -943,7 +943,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>fgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -966,7 +966,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>vfbg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -989,7 +989,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>xvxfbc</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -1012,7 +1012,7 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>cvnb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -1035,402 +1035,18 @@ function Course() {
     <h2 className="card-title">Book!</h2>
     <p>dffdb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
           
         </div>
-      </Slider>
+      </Slider><br></br>
 
           </div>
-          <br></br>
-          <div> 
-            <p className="text-pink-500">Computer Science & Engineering</p><br></br>
-          </div>
-          <div>
-            <Slider {...settings}>
-        <div>
-        <div className="card card-compact bg-base-100 w-96 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfdg</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
           
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-96 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfbdfn</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-96 shadow-xl m-4" style={{
-   width: '25vw',
-   border: '1px solid black',
-   margin: '20px',
-   height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>fdgn</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-         
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-96 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>fgn</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-90 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>vfbg</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-90 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>xvxfbc</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-90 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>cvnb</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-90 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>dffdb</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-      </Slider>
 
-          </div>
-          <br></br>
-          <div> 
-            <p className="text-pink-500">Computer Science & Engineering</p><br></br>
-          </div>
-          <div>
-            <Slider {...settings}>
-        <div>
-        <div className="card card-compact bg-base-100 w-96 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfdg</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-96 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>dfbdfn</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-96 shadow-xl m-4" style={{
-   width: '25vw',
-   border: '1px solid black',
-   margin: '20px',
-   height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Books!</h2>
-    <p>fdgn</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-         
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-96 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>fgn</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-90 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>vfbg</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-90 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>xvxfbc</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-90 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>cvnb</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-        <div>
-        <div className="card card-compact bg-base-100 w-90 shadow-xl m-4" style={{
-    width: '25vw',
-    border: '1px solid black',
-    margin: '20px',
-    height: '400px',
-  }}
->
-  <figure>
-    <img
-      src="https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">Book!</h2>
-    <p>dffdb</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
-    </div>
-  </div>
-</div>
-          
-        </div>
-      </Slider>
-
-          </div>
-
+        
 
           <Link to="/">
             <button className="mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">
