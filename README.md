@@ -91,19 +91,16 @@ Contributions are what make the open-source community such an amazing place to l
   ![Home Page Screenshot](https://github.com/user-attachments/assets/9f2d453e-07dd-4561-b9c1-5674a46efbcf)  
   *The landing page where users can see an overview of the available features.*
 
-- **Login Page:**  
+- **Self Help Book:**  
   ![Login Page Screenshot](https://github.com/user-attachments/assets/1d3d8172-4d30-47c7-8063-acb8a9911201)  
   *The login page where users can enter their credentials to access the platform.*
 
-- **Registration Page:**  
+- **About us & Contact Us:**  
   ![Registration Page Screenshot](https://github.com/user-attachments/assets/59d56fdc-5eb3-45cf-8eb3-633fbbc10cf4)  
   *New users can register on the platform by providing basic details.*
 
 - **Dashboard Overview:**  
   ![Dashboard Overview Screenshot](https://github.com/user-attachments/assets/fe8a619a-4e1c-4035-ada1-5cef025211dd)  
-  *An overview of the user dashboard showing recent activities and available study materials.*
-
-... *(Additional screenshots with descriptions can be added similarly)*
 
 ## Flowchart
 
