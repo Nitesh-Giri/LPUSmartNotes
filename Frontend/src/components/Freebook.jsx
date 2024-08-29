@@ -65,7 +65,7 @@ function Freebook() {
         <h1 className="text-pink-500" style={{
     justifyContent: 'center',
     textAlign: 'center'
-  }}>Trending Books</h1><hr></hr>
+  }}>Self Help Books</h1><br></br>
       </div>
       <div>
       <Slider {...settings}>
@@ -86,7 +86,7 @@ function Freebook() {
     <h2 className="card-title">Books!</h2>
     <p>dfdg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -109,7 +109,7 @@ function Freebook() {
     <h2 className="card-title">Books!</h2>
     <p>dfbdfn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -132,7 +132,7 @@ function Freebook() {
     <h2 className="card-title">Books!</h2>
     <p>fdgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -155,7 +155,7 @@ function Freebook() {
     <h2 className="card-title">Book!</h2>
     <p>fgn</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -178,7 +178,7 @@ function Freebook() {
     <h2 className="card-title">Book!</h2>
     <p>vfbg</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -201,7 +201,7 @@ function Freebook() {
     <h2 className="card-title">Book!</h2>
     <p>xvxfbc</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -224,7 +224,7 @@ function Freebook() {
     <h2 className="card-title">Book!</h2>
     <p>cvnb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
@@ -247,7 +247,7 @@ function Freebook() {
     <h2 className="card-title">Book!</h2>
     <p>dffdb</p>
     <div className="card-actions justify-end">
-      <button className="btn btn-primary">Read Now</button>
+      <button className="btn btn-primary text-pink-500">Read Now</button>
     </div>
   </div>
 </div>
