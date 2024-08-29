@@ -104,3 +104,9 @@ Contributions are what make the open-source community such an amazing place to l
 - **Project Maintainer:** Nitesh Giri
 - **Email:** [Niteshgiri068@gmail.com]
 - **GitHub Repository:** [DiplomaNet](https://github.com/Nitesh-Giri/DiplomaNet/)
+
+## My team Members
+
+Team Members: [Nitesh1594](https://github.com/Nitesh1594),
+ [5ujit](https://github.com/5ujit)
+
