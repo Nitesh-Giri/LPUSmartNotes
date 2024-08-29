@@ -95,6 +95,19 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Output
+<img width="1440" alt="Screenshot 2024-08-29 at 2 37 53 PM" src="https://github.com/user-attachments/assets/7a812393-2c31-4067-94a4-40bf3984c776">
+<img width="1440" alt="Screenshot 2024-08-29 at 2 38 07 PM" src="https://github.com/user-attachments/assets/5ded04ff-4e7f-4226-92d0-bd8e6bebc89<img width="1440" alt="Screenshot 2024-08-29 at 2 38 19 PM" src="https://github.com/user-attachments/assets/3b7cdb59-a4fc-475c-9989-932ca69956f0">
+3">
+<img width="1435" alt="Screenshot 2024-08-29 at 2 38 36 PM" src="https://github.com/user-attachments/assets/6bab8124-c119-4bee-adba-1a8586d8a581">
+<img width="1440" alt="Screenshot 2024-08-29 at 2 38 55 PM" src="https://github.com/user-attachments/assets/377accb6-1f58-4cc0-9764-2e77f13603cb">
+<img width="1440" alt="Screenshot 2024-08-29 at 2 39 07 PM" src="https://github.com/user-attachments/assets/46a976b9-35cf-427f-a462-46e03e<img width="1440" alt="Screenshot 2024-08-29 at 2 39 17 PM" src="https://github.com/user-attachments/assets/564a2e08-8437-4cc0-92d3-4f22f630c6cd">
+1925bd"><img width="1440" alt="Screenshot 2024-08-29 at 2 39 34 PM" src="https://github.com/user-attachments/assets/d9b661a7-b85d-4ec8-91e6-e84682bdaf3a">
+
+<img width="1440" alt="Screenshot 2024-08-29 at 2 39 44 PM" src="https://github.com/user-attachments/assets/aea97004-750c-42ba-ba54-4dafed81ee65">
+
+<img width="1440" alt="Screenshot 2024-08-29 at 2 39 59 PM" src="https://github.com/user-attachments/assets/e40d1127-72ac-4753-9ca7-e86f3d9a2358">
+<img width="1440" alt="Screenshot 2024-08-29 at 2 40 10 PM" src="https://github.com/user-attachments/assets/8001007b-3266-44fe-ac9b-1a0c04dea9f1">
 
 
 
