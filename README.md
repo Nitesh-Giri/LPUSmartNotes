@@ -85,6 +85,20 @@ Contributions are what make the open-source community such an amazing place to l
 - Use meaningful commit messages (e.g., `fix: corrected navbar alignment issue`).
 - Follow the coding style guidelines as per the ESLint configuration provided in the project.
 
+  ## Flowchart
+
+```mermaid
+graph TD
+    A([DiplomaNet]) --> B[Sign-up]
+    B --> C[Login]
+    C --> D{Verify Login}
+    D -- Not Verified --> C
+    D -- Verified --> E[Select Menu]
+    E --> F[Courses]
+    F --> G[E-book]
+    G --> H[View Book]
+    H --> I((Download))
+
 ## Screenshots
 
 - **Home Page:**  
@@ -102,16 +116,4 @@ Contributions are what make the open-source community such an amazing place to l
 - **Dashboard Overview:**  
   ![Dashboard Overview Screenshot](https://github.com/user-attachments/assets/fe8a619a-4e1c-4035-ada1-5cef025211dd)  
 
-## Flowchart
 
-```mermaid
-graph TD
-    A([DiplomaNet]) --> B[Sign-up]
-    B --> C[Login]
-    C --> D{Verify Login}
-    D -- Not Verified --> C
-    D -- Verified --> E[Select Menu]
-    E --> F[Courses]
-    F --> G[E-book]
-    G --> H[View Book]
-    H --> I((Download))
