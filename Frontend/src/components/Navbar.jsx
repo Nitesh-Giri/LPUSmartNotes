@@ -48,10 +48,10 @@ function Navbar() {
         <a>Books</a>
       </li>
       <li>
-        <a>Contact Us</a>
+        <a>About Us</a>
       </li>
       <li>
-        <a>About Us</a>
+        <a>Contact Us</a>
       </li>
     </>
   );
