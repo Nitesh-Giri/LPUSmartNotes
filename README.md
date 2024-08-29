@@ -106,12 +106,12 @@ Contributions are what make the open-source community such an amazing place to l
 
 ```mermaid
 graph TD
-    A([Ebook Site]) --> B[Sign-up]
+    A([DiplomaNet]) --> B[Sign-up]
     B --> C[Login]
     C --> D{Verify Login}
     D -- Not Verified --> C
     D -- Verified --> E[Select Menu]
-    E --> F[Branch]
+    E --> F[Courses]
     F --> G[E-book]
     G --> H[View Book]
     H --> I((Download))
