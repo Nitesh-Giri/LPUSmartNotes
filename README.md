@@ -100,7 +100,19 @@ Contributions are what make the open-source community such an amazing place to l
   *New users can register on the platform by providing basic details.*
 
 - **Dashboard Overview:**  
-  ![Dashboard Overview Screenshot](https://github.com/user-attachments/assets/fe8a619a-4e1c-4035-ada1-5cef025211dd)  
+  ![Dashboard Overview Screenshot](https://github.com/user-attachments/assets/fe8a619a-4e1c-4035-ada1-5cef025211dd)
+
+  ## Contact
+
+- **Project Maintainer:** Nitesh Giri
+- **Email:** [Niteshgiri068@gmail.com](mailto:Niteshgiri068@gmail.com)
+- **GitHub Repository:** [DiplomaNet](https://github.com/Nitesh-Giri/DiplomaNet/)
+
+## Team Members
+
+- **Sujit Kumar Srivastav** (GitHub: [5ujit](https://github.com/5ujit))
+- **Nitesh Kumar** (GitHub: [Nitesh1594](https://github.com/Nitesh1594))
+- **Nitesh Giri** (GitHub: [Nitesh-Giri](https://github.com/Nitesh-Giri))
 
  ## Flowchart
 
