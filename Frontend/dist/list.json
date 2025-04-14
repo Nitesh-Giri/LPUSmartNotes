@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Course 1",
+        "description": "This is the first course",
+        "price": 10.99,
+        "category": "Programming",
+        "image": "https://www.realitypremedia.com/blog/wp-content/uploads/2013/11/ebook1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Course 1",
+        "description": "This is the first course",
+        "price": 10.99,
+        "category": "Programming",
+        "image": "https://example.com/course1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Course 1",
+        "description": "This is the first course",
+        "price": 10.99,
+        "category": "Programming",
+        "image": "https://example.com/course1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Course 1",
+        "description": "This is the first course",
+        "price": 10.99,
+        "category": "Programming",
+        "image": "https://example.com/course1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Course 1",
+        "description": "This is the first course",
+        "price": 10.99,
+        "category": "Programming",
+        "image": "https://example.com/course1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Course 1",
+        "description": "This is the first course",
+        "price": 10.99,
+        "category": "Programming",
+        "image": "https://example.com/course1.jpg"
+    }
+]
