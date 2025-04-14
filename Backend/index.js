@@ -19,9 +19,9 @@ app.use(cors({ origin: "http://localhost:5173" }));
 
 const PORT = process.env.PORT || 4000;
 
-app.use(express.static(path.join(_dirname, "/frontend/dist")));
+app.use(express.static(path.join(_dirname, "/Frontend/dist")));
 app.get('*', (_, res) => {
-    res.sendFile(path.resolve(_dirname , "frontend", "dist", "index.html"))
+    res.sendFile(path.resolve(_dirname , "Frontend", "dist", "index.html"))
 })
 
 app.listen(PORT, () => {
