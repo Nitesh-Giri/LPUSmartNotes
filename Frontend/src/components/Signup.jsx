@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import Login from "./Login";
-import { useForm } from "react-hook-form";
+import { useForm } from "../../node_modules/react-hook-form/dist";
 import axios from "axios";
 import toast from "react-hot-toast";
 function Signup() {
